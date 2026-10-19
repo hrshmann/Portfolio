@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+.vercel
+scripts/.models/
+
+# originals kept on this computer only
+/Harshdeep Maan Resume.pdf
+/Screenshot *.png
